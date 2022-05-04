@@ -1,0 +1,1080 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Audio.meta
+    - Assets/Audio/PM_FN_Spawns_Portals_Teleports_5 (1).mp3
+    - Assets/Audio/PM_FN_Spawns_Portals_Teleports_5 (1).mp3.meta
+    - Assets/Bullet.mat
+    - Assets/Bullet.mat.meta
+    - Assets/NarutoLobbyDisplay.cs
+    - Assets/NarutoLobbyDisplay.cs.meta
+    - Assets/Player.cs
+    - Assets/Player.cs.meta
+    - Assets/Sasuke 3D.meta
+    - Assets/Sasuke 3D/source.meta
+    - Assets/Sasuke 3D/source/11_Bryan_SasukeRig_Final.fbx
+    - Assets/Sasuke 3D/source/11_Bryan_SasukeRig_Final.fbx.meta
+    - Assets/Sasuke 3D/source/Run.fbx
+    - Assets/Sasuke 3D/source/Run.fbx.meta
+    - Assets/Sasuke 3D/source/Shuriken.fbx
+    - Assets/Sasuke 3D/source/Shuriken.fbx.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/Lobby.unity
+    - Assets/Scenes/Lobby.unity.meta
+    - Assets/Scenes/tutorial.unity
+    - Assets/Scenes/tutorial.unity.meta
+    - Assets/Settings.cs
+    - Assets/Settings.cs.meta
+    - Assets/Simple UI.meta
+    - Assets/Simple UI/Fonts.meta
+    - Assets/Simple UI/Fonts/FredokaOne-Regular.ttf
+    - Assets/Simple UI/Fonts/FredokaOne-Regular.ttf.meta
+    - Assets/Simple UI/Fonts/OFL.txt
+    - Assets/Simple UI/Fonts/OFL.txt.meta
+    - Assets/Simple UI/PNG.meta
+    - Assets/Simple UI/PNG/UI_Button_Standard_Green.png
+    - Assets/Simple UI/PNG/UI_Button_Standard_Green.png.meta
+    - Assets/Simple UI/PNG/UI_Button_Standard_Orange.png
+    - Assets/Simple UI/PNG/UI_Button_Standard_Orange.png.meta
+    - Assets/Simple UI/PNG/UI_Button_Standard_Red.png
+    - Assets/Simple UI/PNG/UI_Button_Standard_Red.png.meta
+    - Assets/Simple UI/PNG/UI_Button_Standard_Sky.png
+    - Assets/Simple UI/PNG/UI_Button_Standard_Sky.png.meta
+    - Assets/Simple UI/PNG/UI_Fill_Green.png
+    - Assets/Simple UI/PNG/UI_Fill_Green.png.meta
+    - Assets/Simple UI/PNG/UI_Fill_Orange.png
+    - Assets/Simple UI/PNG/UI_Fill_Orange.png.meta
+    - Assets/Simple UI/PNG/UI_Fill_Red.png
+    - Assets/Simple UI/PNG/UI_Fill_Red.png.meta
+    - Assets/Simple UI/PNG/UI_Fill_Sky.png
+    - Assets/Simple UI/PNG/UI_Fill_Sky.png.meta
+    - Assets/Simple UI/PNG/UI_Frame_Dark_Transparent.png
+    - Assets/Simple UI/PNG/UI_Frame_Dark_Transparent.png.meta
+    - Assets/Simple UI/PNG/UI_Frame_Dark_White.png
+    - Assets/Simple UI/PNG/UI_Frame_Dark_White.png.meta
+    - Assets/Simple UI/PNG/UI_Frame_Transparent.png
+    - Assets/Simple UI/PNG/UI_Frame_Transparent.png.meta
+    - Assets/Simple UI/PNG/UI_Frame_White.png
+    - Assets/Simple UI/PNG/UI_Frame_White.png.meta
+    - Assets/Simple UI/PNG/UI_Panel_Content.png
+    - Assets/Simple UI/PNG/UI_Panel_Content.png.meta
+    - Assets/Simple UI/PNG/UI_Panel_Window.png
+    - Assets/Simple UI/PNG/UI_Panel_Window.png.meta
+    - Assets/Simple UI/PNG/UI_Tab_Active.png
+    - Assets/Simple UI/PNG/UI_Tab_Active.png.meta
+    - Assets/Simple UI/PNG/UI_Tab_Inactive.png
+    - Assets/Simple UI/PNG/UI_Tab_Inactive.png.meta
+    - Assets/Simple UI/PSD.meta
+    - Assets/Simple UI/PSD/SimpleUI.psd
+    - Assets/Simple UI/PSD/SimpleUI.psd.meta
+    - Assets/Simple UI/Resource Icons.meta
+    - Assets/Simple UI/Resource Icons/Source.meta
+    - Assets/Simple UI/Resource Icons/Source/UI_Graphic_Resource_Coins.eps
+    - Assets/Simple UI/Resource Icons/Source/UI_Graphic_Resource_Coins.eps.meta
+    - Assets/Simple UI/Resource Icons/Source/UI_Graphic_Resource_Food.eps
+    - Assets/Simple UI/Resource Icons/Source/UI_Graphic_Resource_Food.eps.meta
+    - Assets/Simple UI/Resource Icons/Source/UI_Graphic_Resource_Gems.eps
+    - Assets/Simple UI/Resource Icons/Source/UI_Graphic_Resource_Gems.eps.meta
+    - Assets/Simple UI/Resource Icons/Source/UI_Graphic_Resource_Hammer.eps
+    - Assets/Simple UI/Resource Icons/Source/UI_Graphic_Resource_Hammer.eps.meta
+    - Assets/Simple UI/Resource Icons/Source/UI_Graphic_Resource_Iron.eps
+    - Assets/Simple UI/Resource Icons/Source/UI_Graphic_Resource_Iron.eps.meta
+    - Assets/Simple UI/Resource Icons/Source/UI_Graphic_Resource_Wood.eps
+    - Assets/Simple UI/Resource Icons/Source/UI_Graphic_Resource_Wood.eps.meta
+    - Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Coins.png
+    - Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Coins.png.meta
+    - Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Food.png
+    - Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Food.png.meta
+    - Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Gems.png
+    - Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Gems.png.meta
+    - Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Iron.png
+    - Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Iron.png.meta
+    - Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Tools.png
+    - Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Tools.png.meta
+    - Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Wood.png
+    - Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Wood.png.meta
+    - Assets/Simple UI/Resource Vector Graphics.meta
+    - Assets/Simple UI/Resource Vector Graphics/Source.meta
+    - Assets/Simple UI/Resource Vector Graphics/Source/UI_Graphic_Resource_Coins.eps
+    - Assets/Simple UI/Resource Vector Graphics/Source/UI_Graphic_Resource_Coins.eps.meta
+    - Assets/Simple UI/Resource Vector Graphics/Source/UI_Graphic_Resource_Food.eps
+    - Assets/Simple UI/Resource Vector Graphics/Source/UI_Graphic_Resource_Food.eps.meta
+    - Assets/Simple UI/Resource Vector Graphics/Source/UI_Graphic_Resource_Gems.eps
+    - Assets/Simple UI/Resource Vector Graphics/Source/UI_Graphic_Resource_Gems.eps.meta
+    - Assets/Simple UI/Resource Vector Graphics/Source/UI_Graphic_Resource_Hammer.eps
+    - Assets/Simple UI/Resource Vector Graphics/Source/UI_Graphic_Resource_Hammer.eps.meta
+    - Assets/Simple UI/Resource Vector Graphics/Source/UI_Graphic_Resource_Iron.eps
+    - Assets/Simple UI/Resource Vector Graphics/Source/UI_Graphic_Resource_Iron.eps.meta
+    - Assets/Simple UI/Resource Vector Graphics/Source/UI_Graphic_Resource_Wood.eps
+    - Assets/Simple UI/Resource Vector Graphics/Source/UI_Graphic_Resource_Wood.eps.meta
+    - Assets/Simple UI/Resource Vector Graphics/UI_Graphic_Resource_Coins.png
+    - Assets/Simple UI/Resource Vector Graphics/UI_Graphic_Resource_Coins.png.meta
+    - Assets/Simple UI/Resource Vector Graphics/UI_Graphic_Resource_Food.png
+    - Assets/Simple UI/Resource Vector Graphics/UI_Graphic_Resource_Food.png.meta
+    - Assets/Simple UI/Resource Vector Graphics/UI_Graphic_Resource_Gems.png
+    - Assets/Simple UI/Resource Vector Graphics/UI_Graphic_Resource_Gems.png.meta
+    - Assets/Simple UI/Resource Vector Graphics/UI_Graphic_Resource_Iron.png
+    - Assets/Simple UI/Resource Vector Graphics/UI_Graphic_Resource_Iron.png.meta
+    - Assets/Simple UI/Resource Vector Graphics/UI_Graphic_Resource_Tools.png
+    - Assets/Simple UI/Resource Vector Graphics/UI_Graphic_Resource_Tools.png.meta
+    - Assets/Simple UI/Resource Vector Graphics/UI_Graphic_Resource_Wood.png
+    - Assets/Simple UI/Resource Vector Graphics/UI_Graphic_Resource_Wood.png.meta
+    - Assets/Simple UI/Samples.meta
+    - Assets/Simple UI/Samples/Achievements.unity
+    - Assets/Simple UI/Samples/Achievements.unity.meta
+    - Assets/Simple UI/Samples/Background.png
+    - Assets/Simple UI/Samples/Background.png.meta
+    - Assets/Simple UI/Samples/HomeScreen.unity
+    - Assets/Simple UI/Samples/HomeScreen.unity.meta
+    - Assets/Simple UI/Samples/IconPreview.cs
+    - Assets/Simple UI/Samples/IconPreview.cs.meta
+    - Assets/Simple UI/Samples/LogIn.unity
+    - Assets/Simple UI/Samples/LogIn.unity.meta
+    - Assets/Simple UI/Samples/PopUp.unity
+    - Assets/Simple UI/Samples/PopUp.unity.meta
+    - Assets/Simple UI/Samples/Resource Icons.unity
+    - Assets/Simple UI/Samples/Resource Icons.unity.meta
+    - Assets/Simple UI/Samples/SettingsWindow.unity
+    - Assets/Simple UI/Samples/SettingsWindow.unity.meta
+    - Assets/Simple UI/Samples/Shop.unity
+    - Assets/Simple UI/Samples/Shop.unity.meta
+    - Assets/Simple UI/Samples/Simple Vector Icons.unity
+    - Assets/Simple UI/Samples/Simple Vector Icons.unity.meta
+    - Assets/Simple UI/Simple Vector Icons.meta
+    - Assets/Simple UI/Simple Vector Icons/128px.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_AD.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_AD.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Aim.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Aim.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_AlarmClock.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_AlarmClock.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_AlarmOff.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_AlarmOff.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_AlarmOn.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_AlarmOn.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Archer.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Archer.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowDown.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowDown.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowLeft.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowLeft.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowLeftRight.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowLeftRight.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowRight.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowRight.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowUp.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowUp.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowUpDown.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowUpDown.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Attachment.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Attachment.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Attack.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Attack.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Award.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Award.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BackSpace.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BackSpace.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Bag1.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Bag1.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Ban.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Ban.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Battery0.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Battery0.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Battery100.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Battery100.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Battery25.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Battery25.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Battery50.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Battery50.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Battery75.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Battery75.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BatteryEmpty.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BatteryEmpty.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Bluetooth.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Bluetooth.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Bomb.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Bomb.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Bone.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Bone.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BoneBroken.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BoneBroken.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Book.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Book.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Bookmark.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Bookmark.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpad.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpad.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadDirDown.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadDirDown.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadDirLeft.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadDirLeft.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadDirRight.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadDirRight.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadDirUp.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadDirUp.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadHorizontal.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadHorizontal.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadVertical.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadVertical.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnL1.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnL1.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnL2.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnL2.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnL3.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnL3.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsCircle.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsCircle.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsCircleRound.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsCircleRound.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsCross.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsCross.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsCrossRound.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsCrossRound.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsSquare.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsSquare.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsSquareRound.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsSquareRound.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsTriangle.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsTriangle.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsTriangleRound.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsTriangleRound.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnR1.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnR1.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnR2.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnR2.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnR3.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnR3.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxA.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxA.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxARound.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxARound.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxB.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxB.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxBRound.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxBRound.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxX.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxX.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxXRound.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxXRound.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxY.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxY.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxYRound.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxYRound.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Calc.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Calc.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CalendarConfirm.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CalendarConfirm.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CalendarMinus.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CalendarMinus.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CalendarMonth.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CalendarMonth.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CalendarPlus.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CalendarPlus.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CalendarWeek.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CalendarWeek.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Camera.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Camera.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Camera2.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Camera2.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CardClubs.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CardClubs.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CardDiamonds.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CardDiamonds.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CardHearts.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CardHearts.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CardSpades.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CardSpades.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Cash.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Cash.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Chainlink.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Chainlink.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Chat.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Chat.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Checkbox.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Checkbox.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Clapperboard.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Clapperboard.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ClapperboardPlay.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ClapperboardPlay.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Close.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Close.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Cloud.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Cloud.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Code.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Code.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Coffee.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Coffee.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Coin.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Coin.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ColorPalette.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ColorPalette.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Community.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Community.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Compass.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Compass.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Confirm.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Confirm.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CreditCard.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CreditCard.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Crosshairs.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Crosshairs.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Crown.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Crown.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyBitcoin.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyBitcoin.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyDollar.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyDollar.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyEuro.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyEuro.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyPound.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyPound.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyRuble.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyRuble.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyWon.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyWon.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyYen.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyYen.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Curves.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Curves.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_DIce3.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_DIce3.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Database.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Database.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Defend.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Defend.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Delete.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Delete.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_DeviceComputer.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_DeviceComputer.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_DevicePhone.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_DevicePhone.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Dice1.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Dice1.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Dice2.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Dice2.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Dice4.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Dice4.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Dice5.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Dice5.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Dice6.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Dice6.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Eat.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Eat.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Edit.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Edit.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_EllipsisHorizontal.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_EllipsisHorizontal.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_EllipsisVertical.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_EllipsisVertical.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Energy.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Energy.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Eraser.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Eraser.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Exit.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Exit.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FaithChristianity.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FaithChristianity.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FaithIslam.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FaithIslam.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FaithJudaism.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FaithJudaism.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FaithTaosim.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FaithTaosim.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FastForward.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FastForward.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FileCopy.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FileCopy.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FileCut.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FileCut.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FileDocument.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FileDocument.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FileFolder.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FileFolder.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FilePaste.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FilePaste.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Fill.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Fill.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Film.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Film.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FilmPlay.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FilmPlay.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Filter.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Filter.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Fire.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Fire.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FirstAid.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FirstAid.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Flag.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Flag.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Frost.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Frost.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FullscreenEnter.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FullscreenEnter.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FullscreenExit.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FullscreenExit.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Gauge.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Gauge.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Gem.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Gem.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_GenderFemale1.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_GenderFemale1.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_GenderFemale2.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_GenderFemale2.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_GenderMale1.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_GenderMale1.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_GenderMale2.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_GenderMale2.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Gift.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Gift.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Glass.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Glass.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Globe.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Globe.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Graduation.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Graduation.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Hammer.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Hammer.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Hashtag.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Hashtag.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_HealthKit.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_HealthKit.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Heart.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Heart.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_HeartEmpty.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_HeartEmpty.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Hierarchy.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Hierarchy.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_History.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_History.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Home.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Home.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ID.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ID.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Inbox.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Inbox.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InboxIn.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InboxIn.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InboxOut.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InboxOut.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Infinite.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Infinite.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Info.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Info.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InputController.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InputController.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InputJoystick.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InputJoystick.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InputKeyboard.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InputKeyboard.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvBelt.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvBelt.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvBoots.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvBoots.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvChest.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvChest.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvCloak.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvCloak.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvGloves.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvGloves.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvHelmet.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvHelmet.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvPants.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvPants.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvPotion.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvPotion.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvRing.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvRing.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Invisible.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Invisible.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Key.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Key.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Leaf.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Leaf.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_LightbulbOff.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_LightbulbOff.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_LightbulbOn.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_LightbulbOn.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Like.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Like.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_List.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_List.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Location.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Location.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_LockLocked.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_LockLocked.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_LockUnlocked.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_LockUnlocked.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Loop.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Loop.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Mail.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Mail.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MailRead.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MailRead.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Map.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Map.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Medal.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Medal.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Meeple.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Meeple.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Menu.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Menu.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Merge.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Merge.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MicOff.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MicOff.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MicOn.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MicOn.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Minus.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Minus.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Mirror.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Mirror.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Moon.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Moon.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MultiPlayer.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MultiPlayer.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MusicOff.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MusicOff.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MusicOn.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MusicOn.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_NewPlayer.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_NewPlayer.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_OnOff.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_OnOff.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Paperplane.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Paperplane.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Pause.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Pause.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Paw.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Paw.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Pen1.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Pen1.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Pen2.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Pen2.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Percentage.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Percentage.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Photo.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Photo.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Pin.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Pin.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_PineTree.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_PineTree.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Play.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Play.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_PlayBackwards.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_PlayBackwards.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Plus.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Plus.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Print.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Print.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Puzzle.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Puzzle.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Question.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Question.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_QuoteLeft.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_QuoteLeft.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_QuoteRight.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_QuoteRight.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_RSS.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_RSS.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Rain.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Rain.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Rainstorm.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Rainstorm.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Receipt.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Receipt.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Recycle.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Recycle.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Refresh.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Refresh.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Reload.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Reload.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Repeat.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Repeat.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Reply.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Reply.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ReplyAll.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ReplyAll.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Results.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Results.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Return.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Return.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Rewind.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Rewind.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Ribbon.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Ribbon.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_RotateLeft.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_RotateLeft.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_RotateRight.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_RotateRight.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sale.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sale.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sandclock.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sandclock.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Save1.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Save1.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Save2.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Save2.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Search.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Search.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Select.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Select.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Settings.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Settings.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Share.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Share.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Share2.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Share2.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ShoppingBag.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ShoppingBag.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ShoppingCart.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ShoppingCart.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Shuffle.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Shuffle.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SignIn.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SignIn.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SignOut.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SignOut.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SinglePlayer.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SinglePlayer.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Skip.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Skip.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SkipBack.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SkipBack.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Skull.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Skull.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sleep.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sleep.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sliders.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sliders.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyDead.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyDead.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyHappy.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyHappy.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyLaughing.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyLaughing.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyNeutral.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyNeutral.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyUnhappy.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyUnhappy.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialDiscord.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialDiscord.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialFacebook.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialFacebook.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialFoursquare.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialFoursquare.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialInstagram.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialInstagram.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialKickstarter.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialKickstarter.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialLine.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialLine.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialMessenger.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialMessenger.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialReddit.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialReddit.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialTwitch.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialTwitch.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialTwitter1.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialTwitter1.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialTwitter2.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialTwitter2.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialVK.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialVK.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialWhatsapp.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialWhatsapp.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialYoutube.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialYoutube.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SortABC1.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SortABC1.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SortABC2.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SortABC2.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SortSIze2.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SortSIze2.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SortSize1.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SortSize1.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SoundOff.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SoundOff.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SoundOn.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SoundOn.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Star.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Star.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_StarEmpty.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_StarEmpty.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Stats.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Stats.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Steam.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Steam.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Stop.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Stop.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Stopwatch.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Stopwatch.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Store.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Store.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Suitcase.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Suitcase.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Suitcase2.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Suitcase2.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sun.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sun.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Swap.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Swap.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TShirt.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TShirt.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TV.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TV.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Target.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Target.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Terminal.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Terminal.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Text.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Text.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Thermo1.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Thermo1.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Thermo2.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Thermo2.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Thermo3.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Thermo3.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Thermo4.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Thermo4.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Ticket.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Ticket.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ToggleNext.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ToggleNext.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ToggleOff.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ToggleOff.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ToggleOn.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ToggleOn.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TogglePrevious.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TogglePrevious.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Trending.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Trending.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Trophy.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Trophy.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TurnAround.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TurnAround.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TurnLeft.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TurnLeft.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TurnRight.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TurnRight.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_USB.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_USB.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Umbrella.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Umbrella.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_University.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_University.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Versus.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Versus.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Visible.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Visible.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Wallet.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Wallet.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Warning.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Warning.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Water.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Water.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Wifi.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Wifi.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_WifiProblem.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_WifiProblem.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Wrench.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Wrench.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ZoomIn.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ZoomIn.png.meta
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ZoomOut.png
+    - Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ZoomOut.png.meta
+    - Assets/Simple UI/Simple Vector Icons/Source.meta
+    - Assets/Simple UI/Simple Vector Icons/Source/SimpleVectorIcons.psd
+    - Assets/Simple UI/Simple Vector Icons/Source/SimpleVectorIcons.psd.meta
+    - Assets/TextMesh Pro.meta
+    - Assets/TextMesh Pro/Documentation.meta
+    - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+    - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+    - Assets/TextMesh Pro/Fonts.meta
+    - Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+    - Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+    - Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    - Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+    - Assets/TextMesh Pro/Resources.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+    - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+    - Assets/TextMesh Pro/Shaders.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMPro.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+    - Assets/TextMesh Pro/Sprites.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+    - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.json
+    - Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.png
+    - Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+    - Assets/UI_manager.cs
+    - Assets/UI_manager.cs.meta
+    - Assets/animation.meta
+    - Assets/animation/naruto 3D.meta
+    - Assets/animation/naruto 3D/Run.controller
+    - Assets/animation/naruto 3D/Run.controller.meta
+    - Assets/animation/naruto 3D/Running.anim
+    - Assets/animation/naruto 3D/Running.anim.meta
+    - Assets/animation/naruto 3D/Tools.meta
+    - Assets/animation/naruto 3D/Tools/Shuriken.meta
+    - Assets/animation/naruto 3D/Tools/Shuriken/Shuriken.controller
+    - Assets/animation/naruto 3D/Tools/Shuriken/Shuriken.controller.meta
+    - Assets/animation/naruto 3D/Tools/Shuriken/Throw.anim
+    - Assets/animation/naruto 3D/Tools/Shuriken/Throw.anim.meta
+    - Assets/animation/naruto 3D/attacking.anim
+    - Assets/animation/naruto 3D/attacking.anim.meta
+    - Assets/animation/naruto 3D/jumping.anim
+    - Assets/animation/naruto 3D/jumping.anim.meta
+    - Assets/animation/naruto 3D/lobbyDisplay.meta
+    - Assets/animation/naruto 3D/lobbyDisplay/Run.controller
+    - Assets/animation/naruto 3D/lobbyDisplay/Run.controller.meta
+    - Assets/animation/naruto 3D/lobbyDisplay/run.anim
+    - Assets/animation/naruto 3D/lobbyDisplay/run.anim.meta
+    - Assets/animation/object.meta
+    - Assets/animation/object/box.meta
+    - Assets/animation/object/box/Cube.controller
+    - Assets/animation/object/box/Cube.controller.meta
+    - Assets/animation/object/box/bpx.anim
+    - Assets/animation/object/box/bpx.anim.meta
+    - Assets/bullet.cs
+    - Assets/bullet.cs.meta
+    - Assets/enemy.cs
+    - Assets/enemy.cs.meta
+    - Assets/floor.mat
+    - Assets/floor.mat.meta
+    - Assets/icon.meta
+    - Assets/icon/freepik.meta
+    - Assets/icon/freepik/happy.png
+    - Assets/icon/freepik/happy.png.meta
+    - Assets/icon/freepik/shuriken.png
+    - Assets/icon/freepik/shuriken.png.meta
+    - Assets/icon/pngaaa.meta
+    - Assets/icon/pngaaa/pngaaa.com-169984.png
+    - Assets/icon/pngaaa/pngaaa.com-169984.png.meta
+    - Assets/icon/pngkit_naruto-png_9537167.png
+    - Assets/icon/pngkit_naruto-png_9537167.png.meta
+    - Assets/lobby.meta
+    - Assets/lobby/New Material.mat
+    - Assets/lobby/New Material.mat.meta
+    - Assets/naruto 3D.meta
+    - Assets/naruto 3D/Materials.meta
+    - Assets/naruto 3D/Materials/Naruto_Eye_BaseColor.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Eye_BaseColor.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Eye_Metalness.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Eye_Metalness.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Eye_Normal.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Eye_Normal.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Eye_Roughness.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Eye_Roughness.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Hair_BaseColor.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Hair_BaseColor.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Hair_Metalness.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Hair_Metalness.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Hair_Normal.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Hair_Normal.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Hand_BaseColor.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Hand_BaseColor.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Hand_Metalness.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Hand_Metalness.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Hand_Roughness.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Hand_Roughness.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Head_BaseColor.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Head_BaseColor.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Head_Metalness.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Head_Metalness.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Head_Normal.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Head_Normal.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Head_Roughness.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Head_Roughness.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Pant_BaseColor.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Pant_BaseColor.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Pant_Metalness.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Pant_Metalness.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Pant_Normal.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Pant_Normal.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Pant_Roughness.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Pant_Roughness.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Shirt_BaseColor.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Shirt_BaseColor.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Shirt_Metalness.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Shirt_Metalness.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Shoe_BaseColor.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Shoe_BaseColor.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Shoe_Metalness.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Shoe_Metalness.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Shoe_Normal.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Shoe_Normal.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Shoe_Roughness.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Shoe_Roughness.1001.mat.meta
+    - Assets/naruto 3D/Materials/Naruto_Teeth_BaseColor.1001.mat
+    - Assets/naruto 3D/Materials/Naruto_Teeth_BaseColor.1001.mat.meta
+    - Assets/naruto 3D/Run.fbx
+    - Assets/naruto 3D/Run.fbx.meta
+    - Assets/naruto 3D/Tools.meta
+    - Assets/naruto 3D/Tools/Shuriken.meta
+    - Assets/naruto 3D/Tools/Shuriken/source.meta
+    - Assets/naruto 3D/Tools/Shuriken/source/Run.fbx
+    - Assets/naruto 3D/Tools/Shuriken/source/Run.fbx.meta
+    - Assets/naruto 3D/Tools/Shuriken/source/Shuriken.fbx
+    - Assets/naruto 3D/Tools/Shuriken/source/Shuriken.fbx.meta
+    - Assets/naruto 3D/Tools/Shuriken/source/Shuriken.prefab
+    - Assets/naruto 3D/Tools/Shuriken/source/Shuriken.prefab.meta
+    - Assets/naruto 3D/source.meta
+    - Assets/naruto 3D/source/Run.fbx
+    - Assets/naruto 3D/source/Run.fbx.meta
+    - Assets/naruto 3D/source/animation.meta
+    - Assets/naruto 3D/source/animation/Idle.fbx
+    - Assets/naruto 3D/source/animation/Idle.fbx.meta
+    - Assets/naruto 3D/source/animation/Run.controller
+    - Assets/naruto 3D/source/animation/Run.controller.meta
+    - Assets/naruto 3D/textures.meta
+    - Assets/naruto 3D/textures/Naruto_Eye_BaseColor.1001.png
+    - Assets/naruto 3D/textures/Naruto_Eye_BaseColor.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Eye_Metalness.1001.png
+    - Assets/naruto 3D/textures/Naruto_Eye_Metalness.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Eye_Normal.1001.png
+    - Assets/naruto 3D/textures/Naruto_Eye_Normal.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Eye_Roughness.1001.png
+    - Assets/naruto 3D/textures/Naruto_Eye_Roughness.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Hair_BaseColor.1001.png
+    - Assets/naruto 3D/textures/Naruto_Hair_BaseColor.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Hair_Metalness.1001.png
+    - Assets/naruto 3D/textures/Naruto_Hair_Metalness.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Hair_Normal.1001.png
+    - Assets/naruto 3D/textures/Naruto_Hair_Normal.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Hair_Roughness.1001.png
+    - Assets/naruto 3D/textures/Naruto_Hair_Roughness.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Hand_BaseColor.1001.png
+    - Assets/naruto 3D/textures/Naruto_Hand_BaseColor.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Hand_Metalness.1001.png
+    - Assets/naruto 3D/textures/Naruto_Hand_Metalness.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Hand_Normal.1001.png
+    - Assets/naruto 3D/textures/Naruto_Hand_Normal.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Hand_Roughness.1001.png
+    - Assets/naruto 3D/textures/Naruto_Hand_Roughness.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Head_BaseColor.1001.png
+    - Assets/naruto 3D/textures/Naruto_Head_BaseColor.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Head_Metalness.1001.png
+    - Assets/naruto 3D/textures/Naruto_Head_Metalness.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Head_Normal.1001.png
+    - Assets/naruto 3D/textures/Naruto_Head_Normal.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Head_Roughness.1001.png
+    - Assets/naruto 3D/textures/Naruto_Head_Roughness.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Pant_BaseColor.1001.png
+    - Assets/naruto 3D/textures/Naruto_Pant_BaseColor.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Pant_Metalness.1001.png
+    - Assets/naruto 3D/textures/Naruto_Pant_Metalness.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Pant_Normal.1001.png
+    - Assets/naruto 3D/textures/Naruto_Pant_Normal.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Pant_Roughness.1001.png
+    - Assets/naruto 3D/textures/Naruto_Pant_Roughness.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Shirt_BaseColor.1001.png
+    - Assets/naruto 3D/textures/Naruto_Shirt_BaseColor.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Shirt_Metalness.1001.png
+    - Assets/naruto 3D/textures/Naruto_Shirt_Metalness.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Shirt_Normal.1001.png
+    - Assets/naruto 3D/textures/Naruto_Shirt_Normal.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Shirt_Roughness.1001.png
+    - Assets/naruto 3D/textures/Naruto_Shirt_Roughness.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Shoe_BaseColor.1001.png
+    - Assets/naruto 3D/textures/Naruto_Shoe_BaseColor.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Shoe_Metalness.1001.png
+    - Assets/naruto 3D/textures/Naruto_Shoe_Metalness.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Shoe_Normal.1001.png
+    - Assets/naruto 3D/textures/Naruto_Shoe_Normal.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Shoe_Roughness.1001.png
+    - Assets/naruto 3D/textures/Naruto_Shoe_Roughness.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Teeth_BaseColor.1001.png
+    - Assets/naruto 3D/textures/Naruto_Teeth_BaseColor.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Teeth_Metalness.1001.png
+    - Assets/naruto 3D/textures/Naruto_Teeth_Metalness.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Teeth_Normal.1001.png
+    - Assets/naruto 3D/textures/Naruto_Teeth_Normal.1001.png.meta
+    - Assets/naruto 3D/textures/Naruto_Teeth_Roughness.1001.png
+    - Assets/naruto 3D/textures/Naruto_Teeth_Roughness.1001.png.meta
+    - Assets/naruto_lobby_model.cs
+    - Assets/naruto_lobby_model.cs.meta
+    - Assets/player.mat
+    - Assets/player.mat.meta
+    - Assets/prefab.meta
+    - Assets/prefab/Cube.prefab
+    - Assets/prefab/Cube.prefab.meta
+    - Assets/save.cs
+    - Assets/save.cs.meta
+    - Assets/shirken.mat
+    - Assets/shirken.mat.meta
+    - Assets/tutorial.cs
+    - Assets/tutorial.cs.meta
+    - Assets/tutorialMessageChange.cs
+    - Assets/tutorialMessageChange.cs.meta
+    - 
+    m_Values: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
